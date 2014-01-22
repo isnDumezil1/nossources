@@ -1,3 +1,5 @@
 Bienvenue dans ce répertoire voici un fichier à modifier
+Pour pousser les fichiers modifier sur github on utilise
+git push -u origin master
 C.DENIS
 
